@@ -1,0 +1,5 @@
+{
+  "delay": "100",
+  "ignoreRoot": [".git"],
+  "watch": ["./server.js"]
+}
